@@ -4,7 +4,6 @@
 
 
 # ALL Data lines change from into demo branch
-# Function A
-# Function D
 # Fucntion C
+# Function B
 # ALternative line for commit
