@@ -7,5 +7,4 @@
 # Function A
 # Function D
 # Fucntion C
-
 # ALternative line for commit
